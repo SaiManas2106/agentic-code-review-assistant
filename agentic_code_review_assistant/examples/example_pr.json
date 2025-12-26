@@ -1,0 +1,14 @@
+{
+  "repo_full_name": "example_owner/example_repo",
+  "pr_number": 1,
+  "files": [
+    {
+      "filename": "a.py",
+      "patch": "def foo(): pass"
+    },
+    {
+      "filename": "b.py",
+      "patch": "def bar(): pass"
+    }
+  ]
+}

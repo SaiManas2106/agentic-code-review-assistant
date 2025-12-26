@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+requests
+python-dotenv
+langchain
+openai
+qdrant-client
+numpy
+pytest
+httpx
+pydantic
+gitpython
+tqdm
